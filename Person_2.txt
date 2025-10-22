@@ -7,3 +7,4 @@ Email :
 Address :
 Status :
 Score :
+BankID :
