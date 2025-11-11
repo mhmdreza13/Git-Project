@@ -3,8 +3,8 @@ LastName : Shiri
 Age : 45
 Phone : 0212288456
 Mobile : 09124578963
-Email :
-Address :
+Email : SHS@gmail.com
+Address : 24th avg
 Status :
 Score :
 BankID :
