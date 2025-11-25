@@ -8,5 +8,3 @@ Address : 24th avg
 Status : active
 Score : 186
 BankID : 458712369
-
-
